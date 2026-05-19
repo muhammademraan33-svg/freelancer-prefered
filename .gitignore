@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env*.local
+*.tsbuildinfo
+
+# Exam screenshots — keep local only
+img/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.JPG
+*.JPEG
+*.PNG
